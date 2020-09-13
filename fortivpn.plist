@@ -12,7 +12,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxxx/xxx.ipa</string>
+					<string>https://raw.githubusercontent.com/hectongh/installfortivpn/master/FortiClientVPN6.4.2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -20,7 +20,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
+					<string></string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -34,13 +34,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxxx.demo</string>
+				<string>com.forti.demo</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>6.4.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>XXXX App download</string>
+				<string>FortiClient VPN download</string>
 			</dict>
 		</dict>
 	</array>
